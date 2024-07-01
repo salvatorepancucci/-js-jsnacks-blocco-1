@@ -7,3 +7,5 @@ for (let i = 0; i < numeroQuattroCifre.length; i++) {
     sommaCifre += parseInt(numeroQuattroCifre[i]);
 }
 
+// Visualizza la somma delle cifre
+console.log(`La somma delle cifre di ${numeroQuattroCifre} è ${sommaCifre}.`);
