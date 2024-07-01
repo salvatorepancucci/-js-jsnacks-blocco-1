@@ -8,3 +8,6 @@ for (let i = 0; i < 6; i++) {
         numeriDispari.push(numero);
     }
 }
+
+// Visualizza l'array dei numeri dispari
+console.log("Numeri dispari inseriti:", numeriDispari);
